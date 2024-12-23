@@ -1,4 +1,4 @@
-package com.example.kaze_drop_1
+package com.example.kaze_drop
 
 import io.flutter.embedding.android.FlutterActivity
 

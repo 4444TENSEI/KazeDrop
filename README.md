@@ -1,4 +1,4 @@
-# kaze_drop_1
+# kaze_drop
 
 A new Flutter project.
 
